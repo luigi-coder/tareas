@@ -1,0 +1,11 @@
+h1 {
+    color:#ff0000;
+    text-align: center;
+}
+span {
+    text-transform: uppercase;
+    background-image: linear-gradient(red, black);
+    color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+}
